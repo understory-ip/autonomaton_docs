@@ -11,4 +11,4 @@ The Autonomaton Pattern is an open protocol (CC BY 4.0) designed to shift AI cap
 * **The Reverse Tax:** The economic mechanics of downward model migration and structural cost reduction. 
 * **Composition Primitives:** How independent Autonomatons scale and federate via telemetry exhaust. 
 
-For the complete Python reference implementation, see the [`grove-autonomaton-primitive` repository](https://github.com/understory-llc/grove-autonomaton-primitive).
+For the complete Python reference implementation, see the [`autonomaton-primitive` repository](https://github.com/understory-ip/autonomaton-primitive).
